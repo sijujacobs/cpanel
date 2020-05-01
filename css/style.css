@@ -59,5 +59,6 @@ footer {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  color: red;
 }
 /*# sourceMappingURL=style.css.map */

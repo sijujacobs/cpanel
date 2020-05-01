@@ -7,4 +7,5 @@
   // git commit -m "first commit"
   // git remote add origin https://github.com/sijujacobs/cpanel.git
   // git push -u origin master
+  // https://github.com/sijujacobs/cpanel.git
 })();
