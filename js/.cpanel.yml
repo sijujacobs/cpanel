@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cpanelUser/public_html/cpanel
+    - export DEPLOYPATH=/home/auravs1k/public_html/cpanel
     - /bin/cp -R * $DEPLOYPATH
